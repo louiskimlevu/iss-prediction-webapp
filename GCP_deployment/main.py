@@ -7,9 +7,6 @@ import io, os, base64
 import numpy as np
 import requests
 
-# global variables
-app = Flask(__name__)
-
 # get path directory
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
