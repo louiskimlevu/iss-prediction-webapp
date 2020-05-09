@@ -12,5 +12,3 @@ Track the position of the ISS in real time using http://api.open-notify.org to c
 Udemy course ViralML
 https://www.udemy.com/course/explore-track-and-predict-the-iss-in-realtime-with-python/
 
-
-https://iss-dot-lklv-project-276704.df.r.appspot.com/
